@@ -3,10 +3,10 @@
     <channel>
         <title>Celestine-Appcast</title>
         <item>
-            <title>Version 4.5.1</title>
+            <title>Version 4.8</title>
             <description>Version Describing file for Celestine</description>
             <pubDate>Tue, 8 Mar 2021 12:00:00 +0530</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.gepton.shreesurbhia2" sparkle:version="1.15.0" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.gepton.shreesurbhia2" sparkle:version="4.8" sparkle:os="android" />
         </item>
     </channel>
 </rss>
