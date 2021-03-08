@@ -3,10 +3,11 @@
     <channel>
         <title>Celestine-Appcast</title>
         <item>
-            <title>Version 4.8.0</title>
+            <title>Version 4.7.4</title>
+            <sparkle:minimumSystemVersion>4.7.4</sparkle:minimumSystemVersion>
             <description>Version Describing file for Celestine</description>
             <pubDate>Tue, 8 Mar 2021 12:00:00 +0530</pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.gepton.shreesurbhia2" sparkle:version="4.7.0." sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=com.gepton.shreesurbhia2" sparkle:version="4.7.4" sparkle:os="android" />
         </item>
     </channel>
 </rss>
