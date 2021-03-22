@@ -14,8 +14,8 @@
 - [Iridium](https://github.com/GEPTON-INFOTECH/iridium): Pymaths Admin Panel
 - [Jadarite](https://github.com/GEPTON-INFOTECH/jadarite): Pymaths Web App
 - [Kettle](https://github.com/GEPTON-INFOTECH/kettle): CCSU Student Portal
-- [Larnite](https://github.com/GEPTON-INFOTECH/Larnite): Pyfin Mobile App
+- [Larnite](https://github.com/GEPTON-INFOTECH/Larnite): Pyfin Web App
 - [Mica](https://github.com/GEPTON-INFOTECH/Mica): Pyfin Admin Panel
-- [Nickel](https://github.com/GEPTON-INFOTECH/Nickel): Pyfin Web App
+- [Nickel](https://github.com/GEPTON-INFOTECH/Nickel): Pyfin Mobile App
 
 ### Other Repo's are not for official Use.
